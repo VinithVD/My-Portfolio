@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+}
+.personal_info{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 3pc;
+    border: solid 4px white;
+}
+.Skills{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius:3pc;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 4px white;
+}
+.contact{
+    
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius:3pc;
+    border: solid 4px white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 50px,50px;
+}
+img{
+    border-radius: 2pc;
+    height: 150px;
+    
+
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: aqua;
+}
+header{
+    color:white;
+    text-align: center;
+}
